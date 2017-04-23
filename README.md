@@ -9,7 +9,7 @@ Ps. Most of the experiments are tested in **Chinese** corpus.
 
 ## New Word Discovery
 
-Use corpus crawled from v2ex[https://www.v2ex.com/].
+Use corpus crawled from [v2ex](https://www.v2ex.com/).
 
 ## HMM Part\-of\-Speech Tagging
 
